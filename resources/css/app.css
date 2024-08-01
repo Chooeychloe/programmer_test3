@@ -1,0 +1,19 @@
+/* Default (Light) Theme */
+body.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+table.light-theme {
+    border-color: #dee2e6;
+}
+
+/* Dark Theme */
+body.dark-theme {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+table.dark-theme {
+    border-color: #555555;
+}
